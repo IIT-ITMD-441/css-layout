@@ -1,2 +1,2 @@
-# CSSLayout
-CSSLayout is a web project that demonstrates precise CSS styling by recreating a sample HTML layout. Built with HTML and CSS, it focuses on layout techniques, spacing, and formatting to match a provided design exactly. The project highlights attention to detail, clean code practices, and a strong understanding of CSS fundamentals in creating visually accurate and well-structured web pages.
+# CSS-Layout
+css-layout is a web project that demonstrates precise CSS styling by recreating a sample HTML layout. Built with HTML and CSS, it focuses on layout techniques, spacing, and formatting to match a provided design exactly. The project highlights attention to detail, clean code practices, and a strong understanding of CSS fundamentals in creating visually accurate and well-structured web pages.
